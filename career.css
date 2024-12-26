@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  .navbar {
+    background-color: #0b7dee;
+  }
+  .navbar-brand, .nav-link {
+    color: #050505 !important;
+  }
+  .jumbotron {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    color: rgb(253, 251, 251);
+    text-shadow: 2px 2px 4px #000;
+  }
+  .jumbotron h1 {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  .section-heading {
+    border-bottom: 3px solid #0066cc;
+    color: #047cfe;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  .container {
+    margin-top: 30px;
+  }
+  .footer {
+    margin-top: 20px;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #b7f9f9;
+  }
+  .btn-primary {
+    background-color: #0066cc;
+    border-color: #0066cc;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
